@@ -17,4 +17,4 @@ We use maven to handle our dependencies.
 ![Screen](https://i.imgur.com/phc59W6.png)
 
 ### Downloads
-[Releases](https://github.com/deathmarine/Luyten/releases/latest)  
+[Releases](https://github.com/delayboy/Luyten-Releases/tree/master)  
